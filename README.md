@@ -18,3 +18,4 @@ The notebooks in order to run and be able to load the data, have been created wi
 #### Disclaimer
 Initially the official PanClassif repository was forked, and extended work and bug fixes were committed from the beginning of this project through a [branch](https://github.com/glyspy/PanClassif-Replication-Project/tree/replication-modification-branch).
 However, due to unresolved technical issues, the final updates could not be pushed there, so this new repository was created.
+This replication project was completed as a term project for the course of "Machine Learning in Computational Biology" of the Master's program in in ["Data Science & Information Tachnologies"](https://dsit.di.uoa.gr) and the specialization of "Bioinformatics - Biomedical Data Science" offered by the National and Kapodistrian University of Athens.
